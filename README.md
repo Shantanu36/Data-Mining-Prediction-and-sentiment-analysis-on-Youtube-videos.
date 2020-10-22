@@ -1,0 +1,2 @@
+# Data-Mining-Prediction-and-sentiment-analysis-on-Youtube-videos.
+This project is mainly based upon a prediction system that takes video likes,dislikes,comments and category as an input and predict the views of the video. It also does sentiment analysis based on the comments available on every video. Several data classifying techniques are used to build a trained classifier and to classify our test data.
